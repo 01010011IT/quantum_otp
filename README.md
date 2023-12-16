@@ -10,14 +10,16 @@ Converts the binary output into a decimal OTP result.
 
 
 
-![Uploading image.png…]()
+<img width="835" alt="image" src="https://github.com/01010011IT/quantum_otp/assets/110842718/450d6695-c218-49f7-9d7c-4d6a74edeb6d">
+
 
 
 
 conver_to_decimal Function:
 
 Converts a binary string into a decimal OTP result in 10K Shots!.
-![Uploading image.png…]()
+<img width="1082" alt="image" src="https://github.com/01010011IT/quantum_otp/assets/110842718/a76a9c5c-43b6-4763-9e50-86b943618d5e">
+
 
 OTP Generation and Storage:
 Generates and validates unique OTP results.
